@@ -16,8 +16,7 @@ async def start_(client: Client, message: Message):
 ➻ The most Powerful telegram music  bot with some awesome and useful features.
 
 ──────────────────
-๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? )
-➻ Made 🖤 by : [𝗝𝝙𝗬🥀](https://t.me/{me}) ** """,
+๏  All of my command can be used with My command handle : ( / . • $ ^ ~ + * ? ) ** """,
     reply_markup=InlineKeyboardMarkup(
             [
                 [
