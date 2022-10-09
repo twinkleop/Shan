@@ -35,7 +35,7 @@ async def start_(client: Client, message: Message):
                         "👤 Bot Owner ", url=f"https://t.me/{me}"
                     ),
                     InlineKeyboardButton(
-                        "👨‍💻 Developer ", url=f"https://t.me/export_gabbar"
+                        "👨‍💻 Developer ", url=f"https://t.me/MAFIA_RJ"
                     ),
                   ],[
                     InlineKeyboardButton(
