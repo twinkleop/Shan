@@ -42,7 +42,7 @@ async def start_(client: Client, message: Message):
                         "✅ Inline ", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "💡 Git repo", url="https://github.com/MrProgrammer72/GJ516VCBOT"
+                        "💡 Git repo", url="https://te.legra.ph/file/d3f87fbd9a9337eaaa148.jpg"
                     )]
             ]
        ),
