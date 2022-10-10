@@ -207,10 +207,11 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📨 Support", url=f"https://t.me/{SUPPORT_GROUP}"),
-                    InlineKeyboardButton("📨 Channel", url=f"https://t.me/{CHANNEL_UPDATES}")
+                    InlineKeyboardButton("📨 Updates", url=f"https://t.me/TheQueenUpdates")
                 ],
                 [
-                   InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play")
+                   InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
+                   InlinekeyboardButton("👤 Powered by", https://t.me/QUEEN_NETWORK)
                 ],
             ]
         ),
