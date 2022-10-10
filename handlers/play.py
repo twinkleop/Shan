@@ -210,8 +210,8 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📨 Updates", url=f"https://t.me/TheQueenUpdates")
                 ],
                 [
-                   InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
-                   InlinekeyboardButton("👤 Powered by", url=f"https://t.me/QUEEN_NETWORK")
+                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
+                    InlineKeyboardButton("👤 powered by", url=f"https://t.me/QUEEN_NETWORK")
                 ],
             ]
         ),
@@ -238,7 +238,7 @@ async def play(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
-                    InlinekeyboardButton("👤 powered by", url=f"https://t.me/QUEEN_NETWORK")
+                    InlineKeyboardButton("👤 Powered by ", url=f"https://t.me/QUEEN_NETWORK")
                 ],
             ]
         ),
