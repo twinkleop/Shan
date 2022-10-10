@@ -211,7 +211,7 @@ async def play(_, message: Message):
                 ],
                 [
                    InlineKeyboardButton("🗑️ Close Menu", callback_data="close_play"),
-                   InlinekeyboardButton("👤 Powered by", https://t.me/QUEEN_NETWORK)
+                   InlinekeyboardButton("👤 Powered by", url=f"https://t.me/QUEEN_NETWORK")
                 ],
             ]
         ),
