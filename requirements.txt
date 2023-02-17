@@ -1,4 +1,4 @@
-git+https://github.com/MrProgrammer72/yt-dlp@master
+https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 pyrogram==1.4.16
 TgCrypto
 py-tgcalls==0.8.6
